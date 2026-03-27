@@ -1,1 +1,12 @@
-{"096_1.ogg":{"type":"string"},"096_2.ogg":{"type":"string"},"096_3.ogg":{"type":"string"},"Music/Bump In The Night.ogg":{"type":"string"},"Music/Blue Feather.ogg":{"type":"string"},"Music/Anxiety.ogg":{"type":"string"},"Music/AI.ogg":{"type":"string"}}
+{
+    "096_1.ogg": "Music/096.ogg",
+    "096_2.ogg": "Music/096Angered.ogg",
+    "096_3.ogg": "Music/096Chase.ogg",
+    "Music/Bump In The Night.ogg": "Music/106.ogg",
+    "Music/Blue Feather.ogg": "Music/Intro.ogg",
+    "Music/Anxiety.ogg": "Music/EntranceZone.ogg",
+    "Music/AI.ogg": "Music/079.ogg",
+    "Music/PocketDimension.ogg": "Music/PD.ogg",
+    "178ambient.ogg": "Music/178.ogg",
+    "Music/SCP-049 Tension.ogg": "Music/SaveMeFrom.ogg"
+}
