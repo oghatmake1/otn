@@ -37,11 +37,12 @@
     "Shriek.ogg": "SCP/1048A/Shriek.ogg",
     "Squishy.ogg": "SCP/1048A/Growth.ogg",
     "Machine.ogg": "SCP/914/Refining.ogg",
+    "Bell.ogg": "Ending/GateA/Bell1.ogg",
     "Bell1.ogg": "SCP/513/Bell1.ogg",
     "Bell2.ogg": "SCP/513/Bell2.ogg",
     "Bell3.ogg": "SCP/513/Bell3.ogg",
     "Bell4.ogg": "SCP/513/914Refine.ogg",
     "cwm1.cwm": "SCP/990/cwm1.cwm",
     "cwm2.cwm": "SCP/990/cwm2.cwm",
-    
+    "PDplane.ogg": "Room/PocketDimension/TrenchPlane.ogg"
 }
